@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Открыть вики
-      link: /wiki
+      link: /wiki/вступление
     - theme: brand
       text: Играть
       link: https://discord.gg/2WmVke2b35
