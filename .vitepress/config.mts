@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "🥝 Miracle",
   description: "Подробная информация про наш сервер",
+  base: "/Miracle-Wiki/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
