@@ -7,7 +7,7 @@ hero:
   text: "Вики сервера"
   tagline: 🥝 Miracle - чудо там, где его никогда не было.
   image:
-    src: ./img/logo.png
+    src: img/logo.png
     alt: logo
   actions:
     - theme: brand
