@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "ac815851849dcf1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "22bac9a3657fc559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e870641a5f39599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/голосовой-чат.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10204e4642bf9482",
+    "type": "split",
+    "children": [
+      {
+        "id": "68893613064fcc3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b3af8914df72f72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5dd7c34513509e7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fe41d68fc0fbc9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f3fd18bf3705ad6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c42d685534815c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "141bffed5b4212bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/голосовой-чат.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ffa205bffbb797c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/голосовой-чат.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d486d686050a3554",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98cc6b23a69134c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/голосовой-чат.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5e870641a5f39599",
+  "lastOpenFiles": [
+    "index.md",
+    "wiki/словарь-терминов.md",
+    "wiki/репутация.md",
+    "wiki/про-сервер.md",
+    "wiki/мониторинги.md",
+    "wiki/лаунчер.md",
+    "wiki/лайтматика.md",
+    "wiki/крафты.md",
+    "wiki/команды.md",
+    "wiki/кастомизация-стоек.md",
+    "wiki/карта.md",
+    "wiki/как-зайти.md",
+    "wiki/голосовой-чат.md",
+    "wiki/головы.md",
+    "wiki/вступление.md",
+    "wiki/возврат-средств.md",
+    "wiki/алкоголь.md",
+    "wiki/miracleplus.md"
+  ]
+}
